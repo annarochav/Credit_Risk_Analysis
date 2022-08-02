@@ -2,6 +2,9 @@
 
 Challenge Week17 Data Analysis BootCamp NumPy, SciPy, Scikit-learn.
 
+<img src="https://github.com/annarochav/Credit_Risk_Analysis/blob/main/Resources/ASM603-large.jpg" width="1000" height="" />
+
+
 ## ⚡Overview of the analysis:
 
 This project required to create a supervised machine learning model that predicts credit risk. Logistic regression, decision trees, random forest among other tools were used and compared to determine which algorithm works better: 
